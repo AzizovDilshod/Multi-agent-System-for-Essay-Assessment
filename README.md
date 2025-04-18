@@ -77,16 +77,6 @@ The system calculates three key evaluation measures to evaluate performance:
 2. **Standard Deviation of Errors**: Consistency of predictions
 3. **Pearson Correlation Coefficient**: Linear relationship between predicted and true scores
 
-## Sample Data
-
-The repository includes sample essays for testing. To use your own data, create a CSV file with the following structure:
-
-```
-essay_id,full_text,score
-1,"This is the full text of essay 1...",5
-2,"This is the full text of essay 2...",3
-...
-```
 
 ## Results Interpretation
 
