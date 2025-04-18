@@ -1,4 +1,4 @@
-# Multi-agent-System-for-Essay-Assessment
+# Multi-Agent System for Essay Assessment
 
 This project implements a sophisticated multi-agent system for scoring student essays using GPT-4o. It utilizes specialized agents for grammar and content evaluation, with a super agent that synthesizes the assessments to produce a final score.
 
